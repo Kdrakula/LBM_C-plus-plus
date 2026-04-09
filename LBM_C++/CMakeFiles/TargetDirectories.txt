@@ -1,0 +1,3 @@
+/Users/kuba/CLionProjects/LBM_C++/CMakeFiles/LBM.dir
+/Users/kuba/CLionProjects/LBM_C++/CMakeFiles/edit_cache.dir
+/Users/kuba/CLionProjects/LBM_C++/CMakeFiles/rebuild_cache.dir
